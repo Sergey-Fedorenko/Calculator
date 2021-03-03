@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="one_number">Первое число</string>
+    <string name="two_number">Второе число</string>
+    <string name="result">РЕЗУЛЬТАТ</string>
+    <string name="sum">+</string>
+    <string name="minus">-</string>
+    <string name="Umn">*</string>
+    <string name="_2">^2</string>
+    <string name="clear">Очистить</string>
+    <string name="del">÷</string>
+    <string name="cos">Cos</string>
+</resources>
